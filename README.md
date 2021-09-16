@@ -9,23 +9,20 @@
 - 🥅 2021 Goals: Getting OSCP!!
 - ⚡ Fun fact: I love Hacking
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-![sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
+!<img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide=issues&include_all_commits=true&theme=dark" />
+
+</details>
+
 
 ### Connect with me:
-
-
 
 [<img align="left" alt="Sachin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sachin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sachin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sachin | Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-
-
-
-
-
-
 
 
 [website]: https://sachinoliver.github.io
