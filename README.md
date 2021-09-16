@@ -19,9 +19,10 @@
 [<img align="left" alt="Sachin | Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 
-<summary>:zap: GitHub Stats</summary>
+![sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 
-<img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide_border=true" />
+
+
 
 
 [website]: https://sachinoliver.github.io
