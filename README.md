@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin - aka [Oliver][website] <img width="25px" src="/img/hand.gif" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sachinoliver91?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsachinoliver91&screen_name=sachinoliver)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sachinoliver91?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsachinoliver91&screen_name=sachinoliver91)
 
 ## I'm a Cyber Security Enthusiast !!
 
