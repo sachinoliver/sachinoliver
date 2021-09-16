@@ -16,16 +16,15 @@
 [<img align="left" alt="Sachin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sachin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sachin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sachin | Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
-
-<details>
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://sachinoliver.github.io
 [twitter]: https://twitter.com/sachinoliver91
 [instagram]: https://instagram.com/sachinoliver
 [linkedin]: https://linkedin.com/in/sachinoliver
+[gmail]: mailto:sachinoliver@gmail.com
