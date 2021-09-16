@@ -4,7 +4,6 @@
 
 ## I'm a Cyber Security Enthusiast !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Bounty Hunters
 - 🥅 2021 Goals: Getting OSCP!!
