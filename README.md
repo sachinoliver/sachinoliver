@@ -3,18 +3,18 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sachinoliver91?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsachinoliver91&screen_name=sachinoliver91)
 
 ## I'm a Cyber Security Enthusiast !!
-- 🔭 Currently Working in SecurityOperatiions@[Icompaas]
+- 🔭 Currently Working in SecurityOperations@[Icompaas]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Bounty Hunters
 - 🥅 2021 Goals: Getting OSCP!!
 - ⚡ Fun fact: I love Hacking
 
-<details>
+
 <summary>:zap: GitHub Stats</summary>
 
 !<img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide=issues&include_all_commits=true&theme=radical" />
 
-</details>
+
 
 
 ### Connect with me:
