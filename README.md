@@ -15,7 +15,7 @@
 <img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide=issues&include_all_commits=true&theme=radical" />
 
 
-
+[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=sachinoliver)](https://github.com/sachinoliver/github-readme-activity-graph)
 
 ### Connect with me:
 
