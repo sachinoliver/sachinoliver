@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@sachin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sachinoliver91)](https://twitter.com/sachinoliver91) [![Linkedin Badge](https://img.shields.io/badge/-sachin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinoliver/) [![Mail Badge](https://img.shields.io/badge/-@sachin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/saachinoliver) [![Mail Badge](https://img.shields.io/badge/-sachinoliver-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sachinoliver@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Sachin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sachinoliver91)](https://twitter.com/sachinoliver91) [![Linkedin Badge](https://img.shields.io/badge/-Sachin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinoliver/) [![Mail Badge](https://img.shields.io/badge/-@Sachin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/saachinoliver) [![Mail Badge](https://img.shields.io/badge/-Sachinoliver-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sachinoliver@gmail.com)
 
 
 
