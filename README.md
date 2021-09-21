@@ -23,13 +23,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Sachin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sachinoliver91)](https://twitter.com/sachinoliver91) [![Linkedin Badge](https://img.shields.io/badge/-Sachin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinoliver/) [![Mail Badge](https://img.shields.io/badge/-@Sachin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/saachinoliver) [![Mail Badge](https://img.shields.io/badge/-Sachinoliver-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sachinoliver@gmail.com)
 
 
-
-[<img align="left" alt="Sachin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sachin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sachin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Sachin | Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-
-
 [website]: https://sachinoliver.github.io
 [twitter]: https://twitter.com/sachinoliver91
 [instagram]: https://instagram.com/sachinoliver
