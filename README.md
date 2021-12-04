@@ -29,3 +29,5 @@
 [linkedin]: https://linkedin.com/in/sachinoliver
 [gmail]: mailto:sachinoliver@gmail.com
 [Icompaas]: https://www.linkedin.com/company/icompaas
+
+![snake gif](https://github.com/sachinoliver/sachinoliver/blob/output/github-contribution-grid-snake.gif)
