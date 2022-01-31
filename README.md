@@ -6,7 +6,7 @@
 - 🔭 Currently Working as SecurityOperationsEngineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Bounty Hunters
-- 🥅 2022 Goals: Getting OSCP!!
+- 🥅 2022 Goals: Getting PNPT!!
 - ⚡ Fun fact: I love Hacking
 
 
