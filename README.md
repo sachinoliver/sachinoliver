@@ -30,4 +30,4 @@
 [gmail]: mailto:sachinoliver@gmail.com
 [Icompaas]: https://www.linkedin.com/company/icompaas
 
-
+![Snake animation](https://github.com/sachinoliver/sachinoliver/blob/output/github-contribution-grid-snake.svg)
