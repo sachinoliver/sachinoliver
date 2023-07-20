@@ -6,7 +6,7 @@
 - 🔭 Currently Working as SecurityOperationsEngineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Bounty Hunters
-- 🥅 202* Goals: Learning !!
+- 🥅 2023 Goals: Learning !!
 - ⚡ Fun fact: I love Hacking
 
 
