@@ -12,10 +12,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide=issues&include_all_commits=true&theme=radical" />
-
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Dedinfosec's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachinoliver&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide=issues&include_all_commits=true&theme=radical" /
 
 
 ### Connect with me:
