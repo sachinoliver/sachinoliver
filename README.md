@@ -12,7 +12,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinoliver&show_icons=true&hide=issues&include_all_commits=true&theme=radical"/
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinoliver&theme=blue-green&show_icons=true)
 
 
 ### Connect with me:
