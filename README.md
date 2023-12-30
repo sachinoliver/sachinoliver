@@ -28,6 +28,5 @@
 [instagram]: https://instagram.com/sachinoliver
 [linkedin]: https://linkedin.com/in/sachinoliver
 [gmail]: mailto:sachinoliver@gmail.com
-[Icompaas]: https://www.linkedin.com/company/icompaas
 
 
